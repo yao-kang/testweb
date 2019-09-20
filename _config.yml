@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yao Kang"
   avatar           : "profile_square.png"
-  bio              : "PhD Student in HPC network; System Administrator; Open Source Contributor"
+  bio              : "PhD Student in HPC network;\nSystem Administrator;\nOpen Source Contributor"
   location         : "Chicago, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
